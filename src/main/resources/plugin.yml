@@ -1,0 +1,4 @@
+name: EnderPearlFix
+version: '${version}'
+main: pen.untitled24.FixEnderPearls
+api-version: '1.21'
